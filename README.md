@@ -237,6 +237,7 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [ScalaKata](https://github.com/MasseGuillaume/ScalaKata) – Scala playground & Documentation tool.
 * [WartRemover](https://github.com/typelevel/wartremover) – Flexible Scala code linting tool.
 * [xsbt-web-plugin](https://github.com/earldouglas/xsbt-web-plugin) – Build enterprise J2EE Web applications in Scala.
+* [Sbt-Ensime](https://github.com/ensime/ensime-sbt) - Generates .ensime config files for SBT projects.
 
 # Contributing
 
